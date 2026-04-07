@@ -6,6 +6,7 @@
 
 - **React 19**, **TypeScript**, **Vite**
 - **Tailwind CSS**, Lucide Icons
+- - Vercel (Deploy)
 
 ---
 
