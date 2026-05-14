@@ -26,6 +26,12 @@ export function TimelineRoad() {
       targetId: "sec-hub-landing",
       href: "https://ozex3-fe4.vercel.app",
     },
+    {
+      date: "2026.05",
+      label: "HanaLoop 채용 과제 프로젝트",
+      targetId: "HanaLoop assignment",
+      href: "https://github.com/djskyt/hanaloop-emissions-dashboard",
+    },
   ];
 
   const smoothJump = useCallback((id: string) => {
