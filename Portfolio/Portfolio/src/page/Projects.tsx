@@ -22,7 +22,7 @@ export default function Projects() {
 
   const featured = useMemo(
     () =>
-      pickByIds(["AI Secretary", "studyhub-admin", "studyhub-landing","hanaloop-emissions-dashboard"]),
+      pickByIds(["AI Secretary", "studyhub-admin", "studyhub-landing","hanaloop-emissions-dashboard","dev-archive"]),
     []
   );
 
