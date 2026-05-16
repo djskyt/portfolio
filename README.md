@@ -16,9 +16,9 @@
 | 프로젝트 | 설명 | 링크 |
 |---------|------|------|
 | AI Secretary | AI 기반 일정 관리 웹 서비스 | [보기](https://github.com/oz-union-fe-12-team1/oz-union-fe-12-team1) |
-| StudyHub | IT 학습 플랫폼 어드민/랜딩
-| HanaLoop | 탄소 배출 대시보드 채용 과제
-| Dev Archive | 개발자 북마크 서비스
+| StudyHub | IT 학습 플랫폼 어드민/랜딩  | [보기](https://github.com/OZ-Coding-School/oz_externship_fe_03_team4) |
+| HanaLoop | 탄소 배출 대시보드 채용 과제 | [보기](https://hanaloop-emissions-dashboard.vercel.app) |
+| Dev Archive | 개발자 북마크 서비스 | [보기](https://dev-archive-nx1irj3d8-djskyt.vercel.app/) |
 
 ## 🚀 Getting Started
 
