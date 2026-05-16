@@ -16,7 +16,7 @@ export default function Projects() {
     ids.map((id) => PROJECTS.find((p) => p.id === id)!).filter(Boolean);
 
   const growth = useMemo(
-    () => pickByIds(["github-pages", "calculator", "bok-project", "ozflix"]),
+    () => pickByIds(["github-pages"]),
     []
   );
 
